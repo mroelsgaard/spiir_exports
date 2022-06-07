@@ -1,0 +1,4 @@
+"Id";"AccountId";"AccountName";"AccountType";"Date";"Description";"OriginalDescription";"MainCategoryId";"MainCategoryName";"CategoryId";"CategoryName";"CategoryType";"ExpenseType";"Amount";"Balance";"CounterEntryId";"Comment";"Tags";"Extraordinary";"SplitGroupId";"CustomDate";"Currency";"OriginalAmount";"OriginalCurrency"
+"111";"1";"A";"Consumption";"25-11-2001";"REMA 1000----";"DK-NOTA---- REMA 1000----";"14";"KontoA";"132";"Dagligvarer";"Expense";"Variable";"-100,20";"0";"";;"";"No";;;"DKK";"-100,20";"DKK"
+"112";"1";"A";"Consumption";"25-11-2001";"Bilka----";"MC debit k�b Bilka----";"14";"KontoA";"132";"Dagligvarer";"Expense";"Variable";"-100,12";"0";"";;"";"No";;;"DKK";"-100,12";"DKK"
+"113";"1";"A";"Consumption";"25-11-2001";"REMA 1000----";"DK-NOTA---- REMA 1000----";"14";"KontoA";"132";"Dagligvarer";"Expense";"Variable";"-130,95";"0";"";;"";"No";;"24-11-2001";"DKK";"-130,95";"DKK"
