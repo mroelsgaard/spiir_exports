@@ -1,0 +1,8 @@
+# the csv files are obviously sensitive
+*.csv
+
+@eaDir
+.ipynb_checkpoints/
+
+# json files are sensitive
+*.json
